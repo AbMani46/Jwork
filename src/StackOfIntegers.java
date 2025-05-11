@@ -1,5 +1,9 @@
 /**
+ * No. 25
  * If you have any questions on what's going on send me text
+ * THis stack uses an array
+ * 
+ * You have to add tests, inside of your main function
  */
 
 public class StackOfIntegers {
